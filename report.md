@@ -14,7 +14,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-- Баг репорты
+- Баг репорт
 
 В качестве тестовых данных использовались данные базы [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
